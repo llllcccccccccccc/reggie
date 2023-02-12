@@ -1,4 +1,5 @@
-package com.lc;
+package com.lc.reggie;
+
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
@@ -7,7 +8,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 class ReggieTakeOutApplicationTests {
 
     @Test
-    void contextLoads() {
+    void y() {
     }
 
 }
